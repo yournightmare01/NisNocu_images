@@ -1,1 +1,1 @@
-# These Images represent admin Website: NisNocu
+# Open index.html to view all the images on one place!
